@@ -1,8 +1,6 @@
-<p align="center">
-	<a href="http://mkwsra.com">
-		<img alt="Mo Kawsara's Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+I+am+Abdusselam&center=true&width=450&height=55">
-	</a>
+<p align="center">	
+	<img alt="Abdusselam's Welcome Message"
+		 src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+I+am+Abdusselam&center=true&width=450&height=55">
 </p>
 
 
