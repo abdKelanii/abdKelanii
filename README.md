@@ -12,6 +12,9 @@
 </p>
 
 
+  <img alt="Abdusselam's Github Stats"
+     src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdkelanii&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abdkelanii"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdkelanii" /></a></p><br><br>
