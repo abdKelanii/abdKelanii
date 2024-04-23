@@ -1,6 +1,6 @@
 <p align="center">	
 	<img alt="Abdusselam's Welcome Message"
-		 src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+there+I'm+Abdusselam+🇵🇸&center=true&width=450&height=55">
+		 src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+there+I'm+Abdalsalam+🇵🇸&center=true&width=450&height=55">
 </p>
 
 
