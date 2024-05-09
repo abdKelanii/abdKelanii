@@ -1,8 +1,4 @@
-<p align="center">	
-	<img alt="Abdusselam's Welcome Message"
-		 src="https://readme-typing-svg.herokuapp.com/?lines=👋+عبد السلام + 🇵🇸&center=true&width=450&height=55">
-</p>
-
+<h1 align="center"> Do What You Do Best </h1>
 
 
  <img alt="Abdusselam Kelani's Streak Stats"
